@@ -1,0 +1,1 @@
+# A simple solver for the license plate game.
