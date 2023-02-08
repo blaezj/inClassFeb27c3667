@@ -22,7 +22,7 @@ public class LPGS {
   /**
    * Tournament Scrabble Dictionary Text File.
    */
-  public static final String DEFAULT_DICT_FILE = "game/dictionary.txt";
+  public static final String DEFAULT_DICT_FILE = "src/main/lpgs/dictionary.txt";
 
   /**
    * Default destination file for the answers.
